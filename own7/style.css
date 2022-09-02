@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,300;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Kanit', sans-serif;
+}
+nav{
+  font-family: 'Merriweather', serif;
+}
+h1,h2,h3,h4,h5 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.changeColor {
+  background-color: #2f3a29;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.changeColor a{
+  color: #000;
+}
+.changeColor a:hover{
+  color: white;
+}
+
+.banner-custom{
+    background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/poveda6u7yb/front-m7VoJwB28ZFLB9VQ.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;  
+}
+.first-btn {
+    border: solid;
+    border-radius: 50px;
+    border-color: white;
+    color: white;
+    background-color: transparent ;
+    width: 160.28px;
+    height: 40px;
+    display: inline-block;
+    font-size: 16px;
+}
+.first-btn:hover{
+  transform: translateY(-5px);
+}
+.second-btn {
+  border: solid;
+  border-radius: 50px;
+  border-color: rgb(6, 53, 6);
+  color: rgb(6, 53, 6) ;
+  background-color: transparent ;
+  width: 216px;
+  height: 37px;
+  display: inline-block;
+  font-size: 16px;
+
+}
+.second-btn:hover{
+transform: translateY(-5px);
+}
+.third-btn {
+  border: solid;
+  border-radius: 50px;
+  border-color: rgb(6, 53, 6);
+  color: rgb(6, 53, 6) ;
+  background-color: transparent ;
+  width: 216px;
+  height: 37px;
+  display: inline-block;
+  font-size: 16px;
+
+}
+.third-btn:hover{
+transform: translateY(-5px);
+}
+.forth-btn {
+  border: solid;
+  border-radius: 50px;
+  border-color: rgb(6, 53, 6);
+  color: rgb(6, 53, 6) ;
+  background-color: transparent ;
+  width: 216px;
+  height: 37px;
+  display: inline-block;
+  font-size: 16px;
+  
+}
+.forth-btn:hover{
+transform: translateY(-5px);
+}
+.fifth-btn {
+  border: solid;
+  border-radius: 50px;
+  border-color: rgb(6, 53, 6);
+  color: rgb(6, 53, 6) ;
+  background-color: transparent ;
+  width: 216px;
+  height: 37px;
+  display: inline-block;
+  font-size: 16px;
+  
+}
+.fifth-btn:hover{
+transform: translateY(-5px);
+}
+.banner-custom1{
+  background-image: url(img/bali1.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center; 
+  
+}
+.banner-custom2{
+  background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/poveda6u7yb/CHOOSE_BALI-AE0zD7zeK4cgbw0M.png);
+  height: 70vh;
+  background-size: cover;
+  background-position: center; 
+  
+}
+.banner-custom3{
+  background-image: url(img/bali2.jpg);
+  height: 90vh;
+  background-size: cover;
+  background-position: center; 
+  
+}
+.banner-custom4{
+  background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/poveda6u7yb/visit_bali-Yanj40lRj1HZe6VG.png);
+  height: 80vh;
+  background-size: cover;
+  background-position: center; 
+}
+.banner-custom5{
+  background-image: url(img/bali42.jpg);
+  height: 80vh;
+  background-size: cover;
+  background-position: center; 
+}
+.banner-custom6{
+  background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/poveda6u7yb/culture_bali-YleZ14DJrKcP6zXR.png);
+  height: 80vh;
+  background-size: cover;
+  background-position: center; 
+}
+.banner-custom7{
+  background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/poveda6u7yb/relax_bali-mjEW344MGrFOGoVx.png);
+  height: 80vh;
+  background-size: cover;
+  background-position: center; 
+}
